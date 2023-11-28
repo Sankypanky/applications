@@ -3,3 +3,4 @@ This is File A
 This has been modified
 
 This is the change
+
